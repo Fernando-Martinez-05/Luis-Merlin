@@ -26,16 +26,11 @@ Me gusta decir que soy alguien que no se queda con la duda. Si algo me interesa,
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
----
 
-### 📈 Un poco de mi actividad:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fernando-Martinez-05&show_icons=true&theme=transparent&title_color=000&text_color=555&icon_color=000&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Martinez-05&layout=compact&theme=transparent&title_color=000&text_color=555&icon_color=000&hide_border=true" width="45%" />
-</p>
 
----
+
+
 
  
 
