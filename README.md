@@ -1,93 +1,47 @@
-<div align="center">
+# ¡Hola! Soy Luis 👋
 
-<img src="https://i.imgur.com/vHq4R7K.png" alt="Luis Martínez Banner" width="100%" />
+**Estudiante de Licenciatura en Sistemas Computacionales**
 
-<br/>
-
-# 👋 ¡Hola Mundo! Soy Luis Martínez
-### Estudiante de Licenciatura en Sistemas Computacionales
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Desarrollador+en+Formaci%C3%B3n;Entusiasta+del+Hardware;Solucionador+de+Problemas;Amante+de+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
-
-<br/>
+Me gusta decir que soy alguien que no se queda con la duda. Si algo me interesa, lo desarmo (o lo rompo) hasta que entiendo cómo funciona. Actualmente estoy enfocado en mi carrera, aprendiendo a construir software que no solo funcione, sino que resuelva problemas de verdad.
 
 ---
 
-</div>
-
-## 👤 Un poco sobre mí
-
-Soy un apasionado de la tecnología con hambre de aprendizaje. Mi camino en la Licenciatura me ha llevado a explorar la intersección entre el código eficiente y la infraestructura robusta. Me caracterizo por ser autodidacta, curioso y metódico.
-
-* 🚀 **Mi Enfoque:** No solo busco escribir código que funcione, sino código que sea escalable y mantenible.
-* 💡 **Intereses:** Me fascina la arquitectura de sistemas, la administración de servidores y el potencial de la Inteligencia Artificial.
-* 💻 **Proyectos:** Constantemente experimentando con nuevas tecnologías, desde integraciones web complejas hasta configuraciones avanzadas de hardware.
+### 🚀 En lo que ando ahora:
+* 🎓 Metiéndole duro a la **Licenciatura en Sistemas**.
+* 🛠️ Aprendiendo sobre **arquitectura de software** y cómo optimizar bases de datos.
+* 💻 Siempre dándole mantenimiento a mi setup; me apasiona el hardware y el rendimiento.
+* 🌐 Experimentando con **WordPress** y buscando cómo personalizarlo más allá de lo básico.
 
 ---
 
-<div align="center">
+### 💻 Mi stack (lo que ya manejo y lo que estoy puliendo):
 
-## 📊 Mis Estadísticas de GitHub (¡En Vivo!)
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-Martinez-05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<br/>
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Martinez-05&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/streak-stats/?username=Fernando-Martinez-05&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+</p>
 
 ---
 
-<div align="center">
+### 📈 Un poco de mi actividad:
 
-## 🛠️ Herramientas que Domino
-
-<br/>
-
-<code>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</code>
-<br/>
-<code>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-</code>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fernando-Martinez-05&show_icons=true&theme=transparent&title_color=000&text_color=555&icon_color=000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Martinez-05&layout=compact&theme=transparent&title_color=000&text_color=555&icon_color=000&hide_border=true" width="45%" />
+</p>
 
 ---
 
-<div align="center">
+### 📫 ¿Hablamos?
+Si tienes alguna idea interesante, quieres colaborar en algo o simplemente platicar sobre tecnología o hardware, mándame un mensaje. 
 
-## 📱 ¡Conectemos!
-
-<br/>
-
-<a href="mailto:tu-correo@ejemplo.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/tu-perfil-linkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://t.me/tu_usuario_telegram">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-</div>
+[**LinkedIn**](https://linkedin.com/in/tu-usuario) | [**Email**](mailto:tu-correo@ejemplo.com)
 
 ---
+<p align="center">
+  <i>"Aprendiendo algo nuevo cada día."</i>
+</p>
