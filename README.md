@@ -2,19 +2,20 @@
 
 **Estudiante de Licenciatura en Sistemas Computacionales**
 
-Me gusta decir que soy alguien que no se queda con la duda. Si algo me interesa, lo desarmo (o lo rompo) hasta que entiendo cómo funciona. Actualmente estoy enfocado en mi carrera, aprendiendo a construir software que no solo funcione, sino que resuelva problemas de verdad.
+Me gusta decir que soy alguien que no se queda con la duda. Si algo me interesa, lo desarmo (o lo rompo) hasta que entiendo cómo funciona. Actualmente estoy enfocado en mi carrera, aprendiendo a construir software con cada fallo, con cada error de compilación, un error más es un aprendizaje nuevo
 
 ---
 
 ### 🚀 En lo que ando ahora:
-* 🎓 Metiéndole duro a la **Licenciatura en Sistemas**.
-* 🛠️ Aprendiendo sobre **arquitectura de software** y cómo optimizar bases de datos.
+* 🎓 Terminando la Licenciatura en Sistemas.
+* 🛠️ Aprendiendo sobre arquitectura de software y cómo optimizar bases de datos.
 * 💻 Siempre dándole mantenimiento a mi setup; me apasiona el hardware y el rendimiento.
 * 🌐 Experimentando con **WordPress** y buscando cómo personalizarlo más allá de lo básico.
+* Aprendiendo más sobre programación
 
 ---
 
-### 💻 Mi stack (lo que ya manejo y lo que estoy puliendo):
+### 💻 Mis herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -36,10 +37,9 @@ Me gusta decir que soy alguien que no se queda con la duda. Si algo me interesa,
 
 ---
 
-### 📫 ¿Hablamos?
-Si tienes alguna idea interesante, quieres colaborar en algo o simplemente platicar sobre tecnología o hardware, mándame un mensaje. 
+ 
 
-[**LinkedIn**](https://linkedin.com/in/tu-usuario) | [**Email**](mailto:tu-correo@ejemplo.com)
+
 
 ---
 <p align="center">
