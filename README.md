@@ -37,5 +37,5 @@ Me gusta decir que soy alguien que no se queda con la duda. Si algo me interesa,
 
 ---
 <p align="center">
-  <i>AEl trabajo duro supera al talento cuando el talento no trabaja duro</i>
+  <i>El trabajo duro supera al talento cuando el talento no trabaja duro</i>
 </p>
