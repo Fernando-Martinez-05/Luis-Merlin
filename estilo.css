@@ -1,0 +1,19 @@
+body{
+
+background-color: rgb(25, 201, 119);
+background-image: url("imagenes/fondo.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+/*esto es el fondo de pantalla para la página, se agrega la imagen, se aplican propiedaes para que la imagen no se repita (para que no se vea 4 veces) para que ocupe toda la pantalla. para que este centrada y para mantener la imagen fija */
+}
+
+.form-login{
+position: absolute;
+top: 45%;
+left: 45%;
+transform: translate((-40%, -40%));
+width:300px;
+
+}
