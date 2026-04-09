@@ -11,7 +11,8 @@ Me gusta decir que soy alguien que no se queda con la duda. Si algo me interesa,
 
 Mis proyectos realizados en el transcurso del tiempo como estudiante de la lic. en sistemas computacionales
 
-<img width="1920" height="1032" alt="Captura de pantalla 2026-04-09 094855" src="https://github.com/user-attachments/assets/639b26ea-4d72-4343-beab-a38a6d78932c" />
+<img width="1920" height="878" alt="Captura de pantalla 2026-04-09 094855" src="https://github.com/user-attachments/assets/06d7cfa2-69de-4d1a-8fc6-1972d5be598c" />
+
 
 
 
