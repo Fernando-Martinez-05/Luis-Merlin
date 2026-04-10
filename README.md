@@ -12,7 +12,7 @@ Actualmente estoy enfocado en mi carrera, aprendiendo a construir software con c
 * 🎓 **Carrera:** Terminando la Licenciatura en Sistemas.
 * 🛠️ **Investigación:** Arquitectura de software y optimización de bases de datos.
 * 💻 **Hardware:** Siempre dándole mantenimiento a mi setup; me apasiona el rendimiento.
-* 🌐 **Web:** Experimentando con **WordPress** y buscando personalizarlo más allá de lo básico.
+* 🌐 **Web:** Desarrollo de páginas web 
 * 📚 **Crecimiento:** Aprendiendo más sobre programación día con día.
 
 ---
