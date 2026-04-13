@@ -21,7 +21,11 @@ Actualmente estoy enfocado en mi carrera, aprendiendo a construir software con c
 *Proyectos realizados en el transcurso del tiempo como estudiante:*
 
 <p align="center">
+  <p>Página con formato de la Comisión Federal de Electricidad (CFE)</p> 
   <img src="https://github.com/user-attachments/assets/06d7cfa2-69de-4d1a-8fc6-1972d5be598c" alt="Captura de mis proyectos" width="90%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <br>
+  <br>
+  <p>Practica de trabajadores con un inicio de sesión y un registro, con información de los trabajadores en una tabla</p>
   <img width="1094" height="533" alt="Captura de pantalla 2026-04-13 093358" src="https://github.com/user-attachments/assets/93f4b372-d412-40ea-b2d5-dd03f7ca5d15" />
 
 </p>
@@ -29,7 +33,7 @@ Actualmente estoy enfocado en mi carrera, aprendiendo a construir software con c
 ---
 
 ### 💻 Mis herramientas
-<Estas son las herramientas que uso día con día</p>
+Estas son las herramientas que uso día con día</p>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
