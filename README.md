@@ -23,6 +23,10 @@ Entiendo que la vida esta llena de errores, pero depende de cada quien saber que
 * 📚 **Crecimiento:** Aprendiendo más sobre programación día con día.
 
 ---
+### Mis intereses 
+
+---
+
 ### Mi experiencia 
 <p>Aquafilter 2023-2025</p>
 •	Mantenimiento de la base de datos: Responsable de sistematizar la información a partir de la carga de clientes, verificando que la misma sea cierta y no se encuentren errores en el sistema.
@@ -35,7 +39,7 @@ Entiendo que la vida esta llena de errores, pero depende de cada quien saber que
 <br><br>
 
 •	 Control de la calidad del servicio: Elaboración de informes acerca de cómo se está realizando el servicio brindado al cliente, verificando que se haga el cumplimiento de los pasos y que la calidad del servicio mantenga un buen nivel.
-
+---
 ### 📂 Mis proyectos 
 *Proyectos realizados en el transcurso del tiempo como estudiante:*
 
@@ -53,7 +57,7 @@ Entiendo que la vida esta llena de errores, pero depende de cada quien saber que
 ---
 
 ### 💻 Mis herramientas
-Estas son las herramientas que uso día con día</p>
+Estas son las herramientas en las que tengo un conocimiento previo</p>
 <br>
 <p align="left">
 <img src="https://img.shields.io/badge/XAMPP-E34F26?style=for-the-badge&logo=xampp&logoColor=white" />
