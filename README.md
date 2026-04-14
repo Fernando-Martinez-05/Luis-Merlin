@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<img scr = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDl1eW1lMWp5cjJtMzgxOXc4ZnM1MGZyeHo3cWE5NGQ1ZDkxcTA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"/>
+<img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmNrYmt0Nzk2MHBqcnM0aWM2bDZjajdlODAwOXVtYXZyNjN1Zmx3cSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
 </div>
 
 ### 🎓 Estudiante de Licenciatura en Sistemas Computacionales
