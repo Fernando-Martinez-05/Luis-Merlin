@@ -38,7 +38,7 @@ Entiendo que la vida esta llena de errores, pero depende de cada quien saber que
 •	 Reportes de alta de usuarios: Elaboración de informes detallados con información detallada de cada uno de los usuarios nuevos que di de alta
 <br><br>
 
-•	 Control de la calidad del servicio: Elaboración de informes acerca de cómo se está realizando el servicio brindado al cliente, verificando que se haga el cumplimiento de los pasos y que la calidad del servicio mantenga un buen nivel.
+• Control de la calidad del servicio: Elaboración de informes acerca de cómo se está realizando el servicio brindado al cliente, verificando que se haga el cumplimiento de los pasos y que la calidad del servicio mantenga un buen nivel.
 ---
 ### 📂 Mis proyectos 
 *Proyectos realizados en el transcurso del tiempo como estudiante:*
