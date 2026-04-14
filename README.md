@@ -1,17 +1,22 @@
-# ¡Hola! Soy Luis 👋
+# ¡Hola! Soy Luis 
+
+<div id="header" align="center">
+
+<img scr = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDl1eW1lMWp5cjJtMzgxOXc4ZnM1MGZyeHo3cWE5NGQ1ZDkxcTA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"/>
+</div>
 
 ### 🎓 Estudiante de Licenciatura en Sistemas Computacionales
 
-> **"Soy alguien que no se queda con la duda. Si algo me interesa, lo desarmo (o lo rompo) hasta que entiendo cómo funciona."**
+> **"Soy una persona que prefiere no quedarse con la duda. Si hay algo que me interese y no tengo idea de su funcionamiento, lo desarmo (o lo desmantelo) hasta comprender su funcionamiento."**
 
 Actualmente estoy enfocado en mi carrera, aprendiendo a construir software con cada fallo. Con cada error de compilación, entiendo que **un error más es un aprendizaje nuevo.**
 
 ---
 
-### 🚀 En lo que ando ahora
-* 🎓 **Carrera:** Terminando la Licenciatura en Sistemas.
+### 🚀Mis actividades
+* 🎓 **Carrera:** Terminando la Licenciatura en Sistemas Computacionales.
 * 🛠️ **Investigación:** Arquitectura de software y optimización de bases de datos.
-* 💻 **Hardware:** Siempre dándole mantenimiento a mi setup; me apasiona el rendimiento.
+* 💻 **Hardware:** Mantemnimiento a mi setup; me apasiona el rendimiento y el mantenimiento a mi equipo de computo.
 * 🌐 **Web:** Desarrollo de páginas web 
 * 📚 **Crecimiento:** Aprendiendo más sobre programación día con día.
 
@@ -30,6 +35,7 @@ Actualmente estoy enfocado en mi carrera, aprendiendo a construir software con c
 
 </p>
 
+
 ---
 
 ### 💻 Mis herramientas
@@ -45,6 +51,7 @@ Estas son las herramientas que uso día con día</p>
 </p>
 
 ---
+<p></p>
 
 <p align="center">
   <i>"El trabajo duro supera al talento cuando el talento no trabaja duro"</i>
