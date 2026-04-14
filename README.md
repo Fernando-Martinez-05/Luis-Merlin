@@ -24,8 +24,17 @@ Entiendo que la vida esta llena de errores, pero depende de cada quien saber que
 
 ---
 ### Mi experiencia 
-<p>Aquafilter</p>
+<p>Aquafilter 2023-2025</p>
+•	Mantenimiento de la base de datos: Responsable de sistematizar la información a partir de la carga de clientes, verificando que la misma sea cierta y no se encuentren errores en el sistema.
+<br><br>
 
+•	 Control y organización del archivo: Ordené los expedientes físicos de los clientes, agruparlos lógicamente para que cualquiera de las personas encargadas pueda encontrar la información de su respectivo cliente de forma continua por año.
+<br><br>
+
+•	 Reportes de alta de usuarios: Elaboración de informes detallados con información detallada de cada uno de los usuarios nuevos que di de alta
+<br><br>
+
+•	 Control de la calidad del servicio: Elaboración de informes acerca de cómo se está realizando el servicio brindado al cliente, verificando que se haga el cumplimiento de los pasos y que la calidad del servicio mantenga un buen nivel.
 
 ### 📂 Mis proyectos 
 *Proyectos realizados en el transcurso del tiempo como estudiante:*
